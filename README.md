@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I'm Tariq Hifzhillah👋
+<img src="https://media.giphy.com/media/L2Fg6q65QKqchwTxDF/giphy.gif" width="300">
 
 <!--
 **ThariqHifzh/ThariqHifzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -30,7 +30,3 @@ Saya adalah mahasiswa **Universitas Gadjah Mada (UGM)** yang berfokus pada menci
 * **LinkedIn**: [linkedin.com/in/TariqHifzhillah](https://linkedin.com/in/TariqHifzhillah)
 * **Portfolio**: [Behance/Thariq_Hifzhillah](https://www.behance.net/gallery/244757437/Portofolio_Thariq-Hifzhillah)
 * **Instagram**: [@thahifzh](instagram.com)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usernameanda&show_icons=true&theme=radical" alt="Statistik GitHub Tariq" />
-</p>

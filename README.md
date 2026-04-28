@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L2Fg6q65QKqchwTxDF/giphy.gif" width="400">
 </p>
 
-### 🎨 UI/UX Designer & Mobile Developer
+### 🎨 UI/UX Designer
 Saya adalah mahasiswa **Universitas Gadjah Mada (UGM)** yang berfokus pada menciptakan pengalaman digital yang bermakna dan estetis. Saya senang menggabungkan logika pemrograman dengan kreativitas desain.
 
 ---
